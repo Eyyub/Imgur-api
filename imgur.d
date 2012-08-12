@@ -1,7 +1,7 @@
 /+
  + imgur.d
  + 
- + Copyright (c) 2012, SARI Eyyüb(eyyub.pangearaion@gmail.com). All rights reserved.
+ + Copyright (c) 2012, SARI Eyyüb(eyyub.pangearaion@gmail.com). 
  +
  + This library is free software; you can redistribute it and/or
  + modify it under the terms of the GNU Lesser General Public
