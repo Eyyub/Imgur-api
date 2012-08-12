@@ -1,7 +1,6 @@
-
 = imgur
 
-D interface to imgur, http://imgur.com/ (image hosting service)
+D interface to imgur, http://imgur.com (image hosting service)
 
 = Requirements
 
