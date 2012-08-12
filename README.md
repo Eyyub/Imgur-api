@@ -1,0 +1,12 @@
+
+= imgur
+
+D interface to imgur, http://imgur.com/ (image hosting service)
+
+= Requirements
+
+An imgur API KEY.
+
+== Note
+
+urlencode function belongs to Dav1dde(https://github.com/Dav1dde), thanks a lot.
