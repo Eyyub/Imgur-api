@@ -86,30 +86,28 @@ struct Album
 	{
 		struct Item
 		{
-			private
+			struct Image
 			{
-				struct Image
-				{
-					string title;
-					string caption;
-					string hash;
-					string datetime;
-					string type;
-					string animated;
-					string width;
-					string height;
-					string size;
-					string views;
-					string bandwidth;
-				}
-				struct Links
-				{
-					string original;
-					string imgur_page;
-					string small_square;
-					string large_thumbnail;
-				}
+				string title;
+				string caption;
+				string hash;
+				string datetime;
+				string type;
+				string animated;
+				string width;
+				string height;
+				string size;
+				string views;
+				string bandwidth;
 			}
+			struct Links
+			{
+				string original;
+				string imgur_page;
+				string small_square;
+				string large_thumbnail;
+			}
+			
 			Image image;
 			Links links;
 		}
